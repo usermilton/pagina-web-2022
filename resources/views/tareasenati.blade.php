@@ -169,7 +169,73 @@
         </div>
     </section>
 
-    
+    <section class="goku">
+        <div class="container">
+            <div class="global">
+                <h2 class="h2-sub">
+                    <span class="fil">D</span>escubre
+                </h2>
+                <h1 class="head hea-dark">Región Janca</h1>
+                <div class="circle">
+                    <i class="fas fa-circle"></i>
+                </div>
+                <div>
+                    <h1 class="milton">Con un piso altitudinal que va desde los 4800 hasta los 6768 m s. n. m., es la más alta. Allí, los amplios nevados -como la Cordillera Blanca- y montañas escabrosas son características principales de su relieve.
+                    ¿Qué podemos encontrar además de un clima frío con constantes nevadas? Entre su fauna brillan ejemplos como musgos, barbascos, canela y el tradicional árbol de la quina, flora que se luce en el Escudo Nacional del Perú. Asimismo, tiene especies como vicuñas, vizcachas y cóndores.</h1>
+                </div>
+              
+            </div>
+        </div>
+    </section>
+
+    <section class="disco">
+        <div class="container">
+            <div class="res-info">
+                <div class="res-des">
+                    <div class="global">
+                        <h2 class="h2-sub">
+                            <span class="fil">D</span>escubre
+                        </h2>
+                        <h1 class="head hea-dark">región Selva Alta</h1>
+                        <div class="circle">
+                            <i class="fas fa-circle"></i>
+                        </div>
+                    </div>
+                    <p>
+                        También se le conoce como Rupa Rupa y va desde los 400 hasta los 1500 m s. n. m. en un terreno montañoso con presencia de cavernas, cuevas, valles y majestuosas quebradas. Se le considera una de las zonas con mayor biodiversidad con un clima tropical.
+                        En su ecosistema viven especies entre las que sobresalen el otorongo, armadillos, el oso perezoso, reptiles, el halcón palomero y el tapir. Por su parte, la palma del aceite, aguaje y el árbol del pan son parte de su flora.
+                   
+                    </p>
+                    <a href="#" class="btn cta-btn">nosotros</a>
+                </div>
+                <div class="image-group pad-rig">
+                    <img src="https://www.peru.travel/Contenido/Uploads/serpiente-tingo-maria-rupa-rupa_637815068530948942.jpg" alt="">
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+<section class="broly">
+    <div class="container">
+        <div class="global">
+            <h2 class="h2-sub">
+                <span class="fil">D</span>descubre
+            </h2>
+            <h1 class="head hea-dark">Región Selva Baja</h1>
+            <div class="circle">
+                <i class="fas fa-circle"></i>
+            </div>
+            <div>
+                <h1 class="milton">Se ubica entre 80 a 400 metros m s. n. m. en plena Amazonía peruana y tiene como particularidad un clima que, si bien es cálido, presenta lluvias. También renombrada como Omagua, cuenta con gran presencia de ríos, llanuras, lagunas y colinas, ambiente ideal para la preservación de bosques.
+                Allí encontramos cerca de 2500 clases de árboles entre cedros, robles criollos, palmeras, caobas y helechos. Asimismo, en fauna sobresalen especies el paiche, la sachavaca, el otorongo, guacamayos, charapas, caimanes y ronsocos.</h1>
+            </div>
+          
+        </div>
+    </div>
+</section>
+
+
 
 
 
