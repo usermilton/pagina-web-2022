@@ -235,7 +235,59 @@
     </div>
 </section>
 
+<footer>
+        <div class="container">
+            <div class="footer-content">
 
+                <div class="footer-content-about">
+                    <h4>Nosotros</h4>
+                    <div class="circle">
+                        <i class="fas fa-circle"></i>
+                    </div>
+                    <p>somos alumnos de senati aprendiendo cada dia mas mi nombre es
+                        boris milton mendoza velez de villa y esto es las 8 regiones del perú
+                        visitanos en nuestras redes sociales y sigue aprendiendo mas xd
+                    </p>
+                </div>
+                <div class="footer-div">
+                    <div class="social-media">
+                        <h4>encuentranos en</h4>
+                        <ul class="social-icons">
+                            <li>
+                                <a href="#"><i class="fab fa-instagram"></i></a>
+                            </li>
+                            <li>
+                                <a href="#"><i class="fab fa-facebook-square"></i></a>
+                            </li>
+                            <li>
+                                <a href="#"><i class="fab fa-twitter"></i></a>
+                            </li>
+                            <li>
+                                <a href="#"><i class="fab fa-youtube"></i></a>
+                            </li>
+                            <li>
+                                <a href="#"><i class="fab fa-github"></i></a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div>
+                        <h4>Noticias</h4>
+                        <form action="" class="news-form">
+                            <input type="text" class="news-input"
+                            placeholder="Escribe tu email"
+                            >
+                            <button class="news-btn" type="submit">
+                                <i class="fas fa-envelope"></i>
+                            </button>
+                        </form>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </footer>
+
+    
 
 
 
