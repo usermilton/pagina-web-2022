@@ -707,7 +707,7 @@ footer {
     <div class="container">
         <div class="global">
             <h2 class="h2-sub">
-                <span class="fil">D</span>descubre
+                <span class="fil">D</span>escubre
             </h2>
             <h1 class="head hea-dark">Región Selva Baja</h1>
             <div class="circle">
