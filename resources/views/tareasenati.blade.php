@@ -121,6 +121,56 @@
         </div>
     </section>
 
+    
+    <section class="pb bt">
+        <div class="container">
+            <div class="global">
+                <h2 class="h2-sub">
+                    <span class="fil">D</span>escubre
+                </h2>
+                <h1 class="head hea-dark">región Suni</h1>
+                <div class="circle">
+                    <i class="fas fa-circle"></i>
+                </div>
+                <div>
+                    <h1 class="milton">Es una de las regiones con mayor variación en su suelo, lo cual la hace única. Y es que presenta una gran cantidad de lagunas, mesetas, montes y lagunas en sus 4000 a 4800 m s. n. m. a lo largo del Altiplano. Resalta con su imponente Meseta del Collao, que se extiende por Puno.
+                    Presenta un clima frío con presencia de sol. Alberga animales como el cóndor, ave insignia de todo el Perú, chinchillas, serpientes y camélidos, al igual que en su tierra florecen líquenes, musgos y la puya raimondi.</h1>
+                </div>            
+            </div>
+        </div>
+    </section>
+
+    <section>
+        <div class="container">
+            <div class="res-info">
+
+                <div class="image-group">
+                    <img src="https://www.peru.travel/Contenido/Uploads/laguna-conococha-puna_637815067432376703.jpg" alt="">
+
+                </div>
+                <div class="res-des pad-rig">
+                    <div class="global">
+                        <h2 class="h2-sub">
+                            <span class="fil">D</span>escubre
+                        </h2>
+                        <h1 class="head hea-dark">Región Puna</h1>
+                        <div class="circle">
+                            <i class="fas fa-circle"></i>
+                        </div>
+                    </div>
+                    <p>
+                        Es una de las regiones con mayor variación en su suelo, lo cual la hace única. Y es que presenta una gran cantidad de lagunas, mesetas, montes y lagunas en sus 4000 a 4800 m s. n. m. a lo largo del Altiplano. Resalta con su imponente Meseta del Collao, que se extiende por Puno.
+                        Presenta un clima frío con presencia de sol. Alberga animales como el cóndor, ave insignia de todo el Perú, chinchillas, serpientes y camélidos, al igual que en su tierra florecen líquenes, musgos y la puya raimondi.
+                    </p>
+                    <a href="#" class="btn cta-btn">nosotros</a>
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+    
+
 
 
 
