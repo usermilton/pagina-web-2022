@@ -7,6 +7,30 @@
     <title>regiones</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css">
 </head>
+
+<style>
+    @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;0,400;0,500;0,600;1,200;1,300;1,400&display=swap');
+   
+*,
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-family: 'Poppins', sans-serif;
+    font-size: 10px;
+    color: rgb(8, 8, 8);
+    scroll-behavior: smooth;
+}
+
+
+
+
+</style>
+
 <body>
     <header>
         <div class="container">
@@ -287,11 +311,22 @@
         </div>
     </footer>
 
-    
+    <script>
+
+const selectElement = function(element) {
+    return document.querySelector(element);
+}
 
 
+let menuToggle = selectElement('.menu-toggle');
+let body = selectElement('body');
+
+menuToggle.addEventListener('click', function(){
+    body.classList.toggle('open');
+})
+
+</script>
 
 
-
-
-</doby>
+</body>
+</html>
