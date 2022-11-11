@@ -741,19 +741,19 @@ footer {
                         <h4>encuentranos en</h4>
                         <ul class="social-icons">
                             <li>
-                                <a href="#"><i class="fab fa-instagram"></i></a>
+                                <a href="https://www.instagram.com"><i class="fab fa-instagram"></i></a>
                             </li>
                             <li>
-                                <a href="#"><i class="fab fa-facebook-square"></i></a>
+                                <a href="https://m.facebook.com"><i class="fab fa-facebook-square"></i></a>
                             </li>
                             <li>
-                                <a href="#"><i class="fab fa-twitter"></i></a>
+                                <a href="https://twitter.com"><i class="fab fa-twitter"></i></a>
                             </li>
                             <li>
-                                <a href="#"><i class="fab fa-youtube"></i></a>
+                                <a href="https://www.youtube.com"><i class="fab fa-youtube"></i></a>
                             </li>
                             <li>
-                                <a href="#"><i class="fab fa-github"></i></a>
+                                <a href="https://github.com/usermilton/tarea_senati.git"><i class="fab fa-github"></i></a>
                             </li>
                         </ul>
                     </div>
