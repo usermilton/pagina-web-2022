@@ -180,6 +180,137 @@ header {
     font-size: 3rem;
 }
 
+.head {
+    color: #fff;
+    font-size: 3.7rem;
+    font-family: 'Poppins', sans-serif;
+    text-transform: uppercase;
+    font-weight: 900;
+    letter-spacing: 3.5rem;
+}
+
+.circle {
+    font-size: 1.5rem;
+    color: #3bcc75;
+    margin: 0 1.6rem;
+}
+
+.he-des h5 {
+    color: #fff;
+    font-size: 1.4rem;
+    font-weight: 100;
+    text-transform: uppercase;
+    margin-bottom: 1.2rem;
+    letter-spacing: 3px;
+    margin-right: -3px;
+}
+
+.btn {
+    display: inline-block;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-right: -2px;
+}
+
+.cta-btn {
+    font-size: 1.1rem;
+    background-color: #ffc845;
+    padding: 1.5rem 3rem;
+    color: #fff;
+    border-radius: .4rem;
+}
+.cta-btn:hover,
+.cta-btn:focus {
+    color: #fff;
+    background-color: #3bcc75;
+}
+
+
+.global {
+    text-align: center;
+    margin-top: 3.9rem;
+}
+
+.dis-sto .global {
+    margin-top: 6.9rem;
+}
+
+.global .circle {
+    color: #3bcc75;
+    margin: 2.4rem 0;
+}
+
+.hea-dark {
+    color: #090909;
+    letter-spacing: .7rem;
+    margin-right: -.7rem;
+}
+
+.global .h2-sub {
+    letter-spacing: -1px;
+    line-height: .42;
+}
+
+.res-info {
+    text-align: center;
+}
+
+.res-des {
+    margin-bottom: 3rem;
+}
+
+.res-des p {
+    line-height: 1.6;
+    margin-bottom: 2.4rem
+}
+
+.taste {
+    background: url("https://www.peru.travel/Contenido/Uploads/viczacha-yunga_637815066147561253.jpg") center no-repeat;
+    background-size: cover;
+}
+
+.bt {
+    min-height: 65vh;
+    display: flex;
+    align-items: center;
+}
+
+.milton {
+ 
+    color: #fff;
+    font-size: 2.3rem;
+    font-family: 'Poppins', sans-serif;
+   
+    font-weight: 900;
+    letter-spacing: 0.0rem;
+}
+     
+.image-group {
+    width: 100%;
+    max-width: 100%;
+   
+}
+
+.disco .res-des {
+    padding-top: 3rem;
+    margin-bottom: 0;
+}
+
+.pb {
+    background: url("https://www.peru.travel/Contenido/Uploads/cactus-la-oroya-suni_637815066802019353.jpg") center no-repeat;
+    background-size: cover;
+}
+
+.goku {
+    background: url("https://www.monografias.com/trabajos82/regiones-naturales-peru-suni-puna-janca/image036.jpg") center no-repeat;
+    background-size: cover;
+}
+
+.broly {
+    background: url("https://t1.ev.ltmcdn.com/es/posts/9/7/7/flora_y_fauna_de_la_selva_peruana_1779_orig.jpg") center no-repeat;
+    background-size: cover;
+}
+
 
 
 
