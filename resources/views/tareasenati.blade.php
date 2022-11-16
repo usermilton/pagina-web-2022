@@ -510,11 +510,16 @@ footer {
                         <a href="#" class="nav-link ">Noticias</a>
                     </li>
                     <li class="nav-item">
-                        <a href="#" class="nav-link ">Tienda</a>
-                    </li>
-                    <li class="nav-item">
                         <a href="#" class="nav-link ">Contacto</a>
                     </li>
+                    <!--para el login-->
+                    <li class="nav-item">
+                        <a href="{{ route('login') }}" class="nav-link ">Login</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="{{ route('register') }}" class="nav-link ">register</a>
+                    </li>
+                     <!--fin del login-->
                 </ul>
             </nav>
         </div>
@@ -747,7 +752,7 @@ footer {
                                 <a href="https://m.facebook.com"><i class="fab fa-facebook-square"></i></a>
                             </li>
                             <li>
-                                <a href="https://twitter.com"><i class="fab fa-twitter"></i></a>
+                                <a href="https://www.reddit.com"><i class="fab fa-reddit"></i></a>
                             </li>
                             <li>
                                 <a href="https://www.youtube.com"><i class="fab fa-youtube"></i></a>
